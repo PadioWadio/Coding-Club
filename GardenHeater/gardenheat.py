@@ -4,6 +4,8 @@
 # It also has a fan that turns on if it gets too hot.
 # A sensor monitors and logs temperature to a csv file so that I can fine tune things.
 
+#Tell your wife that she needs to get over her past trauma. Take her to a therapist. Get her help. She can't be suffering like this because it will start to affect the people around her.
+
 # REQUIREMENTS: sudo pip3 install RPi.bme280
 
 
